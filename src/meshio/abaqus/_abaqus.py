@@ -38,6 +38,7 @@ abaqus_to_meshio_type = {
     # surfaces
     "CPS4": "quad",
     "CPS4R": "quad",
+    "R3D4": "quad",
     "S4": "quad",
     "S4R": "quad",
     "S4RS": "quad",
